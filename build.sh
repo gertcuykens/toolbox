@@ -1,2 +1,2 @@
 #!/bin/sh
-vulcanize -o build.html index.html --inline
+vulcanize -o build.html index.html --inline --strip
